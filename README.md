@@ -1,5 +1,5 @@
-Hello, everyone! I am Akshita Kashyap, a passionate and dedicated B.Tech Computer Science and Engineering student. I am thrilled to share my enthusiasm for the fields of Artificial Intelligence and Machine Learning (AIML), Data Science, and Python programming.
-Thank you for your time, and I look forward to exciting opportunities ahead!
+Hello, everyone! I'm someone who genuinely enjoys working with data—whether it's analyzing trends, building with Python, exploring databases, or diving into AI and machine learning. I'm always curious, love learning new tools, and get excited about solving real-world problems using data. Looking forward to growing in the world of data science and analytics! 
+✨Thanks for Visiting✨
 
 <!---
 Akshita-1126/Akshita-1126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
